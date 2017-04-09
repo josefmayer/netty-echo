@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.netty:netty-codec-http2:4.1.10.Final-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-codec-http2/4.1.10.Final-SNAPSHOT/netty-codec-http2-4.1.10.Final-20170409.120233-31.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-codec-http2/4.1.10.Final-SNAPSHOT/netty-codec-http2-4.1.10.Final-20170409.120233-31-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-codec-http2/4.1.10.Final-SNAPSHOT/netty-codec-http2-4.1.10.Final-20170409.120233-31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
